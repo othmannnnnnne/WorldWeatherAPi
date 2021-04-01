@@ -3,9 +3,9 @@ from wwo_hist import retrieve_hist_data
 import os
 
 
-frequency=3
-start_date = '01-MAR-2021'
-end_date = '31-MAR-2021'
+frequency=24
+start_date = '01-AUG-2008'
+end_date = '01-AUG-2009'
 api_key = '5a5a055b8f36462bb2c132317212503'
 location_list = ['Casablanca']
 
